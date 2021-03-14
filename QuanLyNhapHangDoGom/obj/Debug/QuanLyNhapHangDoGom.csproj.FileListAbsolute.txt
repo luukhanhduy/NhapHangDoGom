@@ -1,0 +1,16 @@
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\bin\Debug\QuanLyNhapHangDoGom.exe.config
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\bin\Debug\QuanLyNhapHangDoGom.exe
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\bin\Debug\QuanLyNhapHangDoGom.pdb
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.csprojAssemblyReference.cache
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.Properties.Resources.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.csproj.GenerateResource.cache
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.csproj.CoreCompileInputs.cache
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.exe
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.pdb
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormDangNhap.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormMatHang.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormCTPhieuNhap.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormPhieuNhap.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormDanhMucSP.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormNhanVien.resources
+D:\HocTap\ChuyenDe\LapTrinhUngDung\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\QuanLyNhapHangDoGom\obj\Debug\QuanLyNhapHangDoGom.FormThongKe.resources
